@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="42px" viewBox="0 0 45 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>favorite</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Projects-Description" transform="translate(-499.000000, -1214.000000)" fill="#2BD29E">
+            <g id="Group-3" transform="translate(456.000000, 1169.000000)">
+                <g id="favorite" transform="translate(43.000000, 45.000000)">
+                    <path d="M22.5,41.9111111 L19.35,38.7222222 C7.65,28.2444444 0,21.1833333 0,12.5277778 C0,5.46666667 5.4,0 12.375,0 C16.2,0 20.025,1.82222222 22.5,4.78333333 C24.975,1.82222222 28.8,0 32.625,0 C39.6,0 45,5.46666667 45,12.5277778 C45,21.1833333 37.35,28.2444444 25.65,38.7222222 L22.5,41.9111111 L22.5,41.9111111 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

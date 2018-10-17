@@ -1,0 +1,7 @@
+{
+  "name": "nanest-api",
+  "alias": "api.nanest.io",
+  "env": {
+    "DB_URL": "@db-url"
+  }
+}
